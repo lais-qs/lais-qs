@@ -1,4 +1,6 @@
 <img align="right" height="150" src="https://media.giphy.com/media/1c8IA48wTVBtZ8uUer/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/Qs2fbGjITMxdtoyq3w/giphy.gif>
+
 **lais-qs/lais-qs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
