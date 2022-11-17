@@ -4,7 +4,7 @@
 ```diff
 Hello! I'm Lais 👩🏽‍💻🌸
 
-- Engineering student, 19 years old
+- Engineering student
 - Living in Fortaleza, Brazil 
 - 19 years old
 
