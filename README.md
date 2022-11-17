@@ -1,5 +1,5 @@
 <img align="right" height="150" src="https://media.giphy.com/media/7BMombVTYBkr2Jr5OV/giphy.gif"/>
-<img align="left" height="150" src="https://media.giphy.com/media/2hqPt6qj4iOhO3nBXy/giphy.gif"/>
+<img align="left" height="150" src="https://media.giphy.com/media/mcE0AnzmH2azVyIkwy/giphy.gif"/>
                                     
 ```diff
 Hello! I'm Lais 👩🏽‍💻🌸
