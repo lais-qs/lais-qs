@@ -1,4 +1,4 @@
-<img align="right" height="150" src=<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1c8IA48wTVBtZ8uUer" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coffee-anger-pad-1c8IA48wTVBtZ8uUer">via GIPHY</a></p>
+<img align="right" height="150" src="https://media.giphy.com/media/1c8IA48wTVBtZ8uUer/giphy.gif"/>
 **lais-qs/lais-qs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
