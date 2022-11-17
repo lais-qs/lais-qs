@@ -9,4 +9,4 @@ Hello! I'm Lais 👩🏽‍💻🌸
 - 19 years old
 
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lais-qs=anuraghazra&show_icons=true&theme=omni)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lais-qs&show_icons=true&theme=omni)
