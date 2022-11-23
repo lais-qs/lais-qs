@@ -10,3 +10,4 @@ Hello! I'm Lais 👩🏽‍💻🌸
 
 ```
 ![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=lais-qs&show_icons=true&theme=omni)
+https://github-readme-stats.vercel.app/api?username=lais-qs&show_icons=true&theme=omni
