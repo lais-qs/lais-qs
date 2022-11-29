@@ -9,5 +9,5 @@ Hello! I'm Lais 👩🏽‍💻🌸
 - 19 years old
 
 ```
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPalhano&layout=compact&langs_count=6&theme=dark"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=lais-qs&show_icons=true&theme=omni"/>
 </div>
