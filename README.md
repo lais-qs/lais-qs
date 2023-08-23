@@ -1,5 +1,5 @@
-<img align="right" height="150" src="https://media.giphy.com/media/7BMombVTYBkr2Jr5OV/giphy.gif"/>
-<img align="left" height="150" src="https://media.giphy.com/media/mcE0AnzmH2azVyIkwy/giphy.gif"/>
+<div class="tenor-gif-embed" data-postid="19313228" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/welcome-gif-19313228">Welcome GIF</a>from <a href="https://tenor.com/search/welcome-gifs">Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
                                     
 ```diff
 Hello! I'm Lais 👩🏽‍💻🌸
