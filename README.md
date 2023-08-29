@@ -6,7 +6,7 @@
 
 - Universidade Federal do Ceará, Engenharia de Telecomunicações
 
-- 
+- programação de embarcados
 
  ♡: coisas fofas, programação de embarcados, robótica
 
