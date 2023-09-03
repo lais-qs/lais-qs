@@ -1,14 +1,18 @@
+<p align="center">
+  <img src= "https://github.com/lais-qs/lais-qs/assets/117294213/6b0a1e6e-79fd-46bd-8924-1f606a356983" height="320" wight="400"/>
+</p>
+
 <img src= "https://github.com/lais-qs/lais-qs/assets/117294213/c3432642-e163-492f-ae33-3fcb745b9622" align="right" height="220" width="400" />
 
 ꒰⠀🧁⠀꒱   ੭ㅤ𓈒   𝗴𝗼 𝗮𝗻𝗱 𝘀𝘁𝘂𝗱𝘆   ୨୧ ♡ ໒꒰ྀི⸝⸝․ ․⸝⸝꒱ྀིა
 
-- 19 anos
+- 20 anos
 
 - Universidade Federal do Ceará, Engenharia de Telecomunicações
 
-- programação de embarcados
+- linguagem favorita: C++
 
- ♡: coisas fofas, programação de embarcados, robótica
+ ♡: coisas fofas, chocolate e programação de embarcados
 
 
 <img height="145em" src="https://github-readme-stats.vercel.app/api?username=lais-qs&show_icons=true&theme=omni"/>
