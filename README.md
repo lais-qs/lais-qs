@@ -11,6 +11,7 @@
 - Universidade Federal do Ceará, Engenharia de Telecomunicações
 
 - linguagem favorita: C++
+- experiencia em python 
 
  ♡: coisas fofas, chocolate e programação de embarcados
 
